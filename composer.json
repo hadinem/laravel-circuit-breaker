@@ -1,5 +1,5 @@
 {
-    "name": "gabrielanhaia/laravel-circuit-breaker",
+    "name": "hadinem/laravel-circuit-breaker",
     "description": "Circuit breaker for microservices developed in PHP and Laravel Framework",
     "type": "library",
     "keywords": ["laravel", "micro-services", "circuit-breaker", "api"],
